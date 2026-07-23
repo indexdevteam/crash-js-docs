@@ -41,6 +41,14 @@ Android runtime environment and with the
 Windows runtime environments, given they are built using
 [`reallymakepkg`](
   https://github.com/themartiancompany/reallymakepkg).
+Support for macOS and iOS is currently to be set up
+manually and it has been tested in the
+[`ish`](
+  https://github.com/ish-app/ish)
+and
+[`brew`](
+  https://github.com/homebrew/brew)
+environments.
 
 While Ur recipes and packages are compatible with the
 all of the above platform, at least Arch Linux developers explicitly
