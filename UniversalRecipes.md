@@ -57,6 +57,21 @@ While one can indeed publish standard normal `PKGBUILD`s
 as Universal Recipes on the Ur, it is highly suggested
 the following general rules are respected.
 
+### Mandatory fields
+
+For better syntax highlighting the following convention is
+generally suggested for adoption when writing
+the now mandatory `pkgbase`; the `pkgname` variable is also
+generally intended as an array and treated as such.
+
+```bash
+_pkg=package-name
+pkgbase="${_pkg}"
+pkgname=(
+  "${_pkg}"
+)
+```
+
 ### Switches
 
 Generally speaking, cross-platform changes
@@ -86,7 +101,10 @@ Common switches are:
 - `_docs` (`bool`):
      Whether to build the documentation packages.
 
-Common variables are instead
+### Common variables
+
+Some switches enable the evaluation of switch-specific
+variables:
 
 - `_git_service` (`string`):
     Common value for this variable are `gitlab` and
@@ -102,17 +120,21 @@ Common variables are instead
 - `_ns` (`string`):
      Namespace name (for Git, EVMFS).
 
+### Cross-platform variables
+
 Being Universal Recipes cross-platform,
 variables are used to tell `makepkg`
 which compilers and library to build
 against on a given base operating system.
-This is done usually by using the following
-variables.
+This is done usually by using the
+variables described in the following.
 In time some or all of these variables will
 be eventually auto-detected by
-`reallymakepkg`. More documentation
-about runtime variables in DogeOS is available
-in that program's
+`reallymakepkg`.
+For specific documentation about which runtime
+variables to set and which `depends` and `makedepends`
+are to be set in an Universal recipe to enable
+specific OSes C programs compiling, consult `reallymakepkg`
 [documentation](
   https://github.com/themartiancompany/reallymakepkg).
 
@@ -128,6 +150,10 @@ in that program's
     The C compiler library. On GNU/Linux usually
     `gcc-libs` (more recently also `libgcc`), on
     Android `llvm-libs` and on Windows same as GNU.
+
+- `_libc_headers` (`string`):
+    This is Windows specific at the moment and it
+    must have value `msys2-w32api-headers`.
 
 ## Packaging guidelines
 
