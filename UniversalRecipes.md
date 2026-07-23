@@ -65,6 +65,14 @@ While one can indeed publish standard normal `PKGBUILD`s
 as Universal Recipes on the Ur, it is highly suggested
 the following general rules are respected.
 
+### DogeOS coding style
+
+Universal recipes are expected to respect
+[DogeOS coding style](
+  https://github.com/themartiancompany/dogeos-coding-style)
+for greater code readability on smartphones
+and portrait views.
+
 ### Mandatory fields
 
 For better syntax highlighting the following convention is
