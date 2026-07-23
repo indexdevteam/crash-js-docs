@@ -26,7 +26,7 @@
   <a
      href="https://github.com/themartiancompany/ur">
     <img
-       src="https://raw.githubusercontent.com/themartiancompany/ur-data/a115cf44cc5e4441a34f46a51ace090809572afd/ur-overlappin-overlappin.png"
+       src="https://raw.githubusercontent.com/themartiancompany/ur-data/6e91ae9528911958fe859c8e99c214ee7fac0d40/ur-overlappin.png"
        width="500"
     />
   </a>
