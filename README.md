@@ -21,6 +21,17 @@
 
 ### Ur documentation
 
+<div
+   align="center">
+  <a
+     href="ur-overlappin.png">
+    <img
+       src="ur-overlappin.png"
+       width="500"
+    />
+  </a>
+</div>
+
 Here follows an index for the Ur documentation.
 
 - [Architecture](
