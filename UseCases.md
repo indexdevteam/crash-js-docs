@@ -28,11 +28,12 @@ which the Ur application
 store may fit a publisher's
 choice for a marketplace on
 which to sell their media,
-all depending on ts unique
-property of being uncensorable
+all depending on its unique
+properties of being uncensorable
 and
 [undeletable](
   https://github.com/themartiancompany/evmfs-docs/blob/master/README.md).
+
 
 ### Obscene publications
 
@@ -42,6 +43,7 @@ in specific jurisdictions to distribute
 them without worrying their public
 could not be able to reach or
 could lose access to it at a later time.
+
 
 ### Investigative media reporting
 
