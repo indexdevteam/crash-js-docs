@@ -23,11 +23,16 @@
 # Use cases
 
 Here follows a list of
-specific use cases for
+exclusive use cases for
 which the Ur application
 store may fit a publisher's
 choice for a marketplace on
-which to sell their media.
+which to sell their media,
+all depending on ts unique
+property of being uncensorable
+and
+[undeletable](
+  https://github.com/themartiancompany/evmfs-docs/blob/master/README.md).
 
 ### Obscene publications
 
