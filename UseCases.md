@@ -19,6 +19,7 @@
 [comment]: <> (License along with this program.)
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
+
 # Use cases
 
 Here follows a list of
@@ -28,15 +29,14 @@ store may fit a publisher's
 choice for a marketplace on
 which to sell their media.
 
-### Videogames modifications (game mods)
+### Obscene publications
 
-The Ur allows videogame modifications
-(game mods) developers to publish and
-sell their work in exchange for money on the
-store while at the same time requiring
-users to purchase the original title
-and allowing the original publishers
-to monitor the derivative work sale.
+The Ur allows artists producing
+works considered obscene or illegal
+in specific jurisdictions to distribute
+them without worrying their public
+could not be able to reach or
+could lose access to it at a later time.
 
 ### Investigative media reporting
 
@@ -50,3 +50,14 @@ same powering financial markets,
 so no nation state is currently
 able to nor block a sale
 nor take the content down.
+
+
+### Videogames modifications (game mods)
+
+The Ur allows videogame modifications
+(game mods) developers to publish and
+sell their work in exchange for money on the
+store while at the same time requiring
+users to purchase the original title
+and allowing the original publishers
+to monitor the derivative work sale.
