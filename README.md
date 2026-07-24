@@ -42,6 +42,8 @@ Here follows an index for the Ur documentation.
     StoreModel.md)
 - [Universal Recipes](
     UniversalRecipes.md)
+- [Use cases](
+    UseCases.md)
 
 The documentation is released under the terms of the
 GNU Affero General Public License version 3.
