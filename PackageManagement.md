@@ -70,3 +70,14 @@ At the same time thats not to be expected
 from computers, which on the opposite are
 supposed to always interpret the same symbol
 the same way.
+
+As a consequence, what one must expect
+from a computer is that it will correctly
+be able to perform the correct entity linking,
+ie. pointing to the correct specific entity
+the user calls that way.
+
+In practice what it happens instead is
+computers talk all the time to a American
+companies cartel which the world has let itself
+take over from because nobody knew better.
