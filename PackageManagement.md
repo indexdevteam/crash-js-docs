@@ -66,7 +66,7 @@ even when using the same words, they will
 always mean something different, maybe
 slightly different when one is lucky,
 but always different.
-At the same time thats not to be expected
+At the same time that's not to be expected
 from computers, which on the opposite are
 supposed to always interpret the same symbol
 the same way.
@@ -78,7 +78,7 @@ ie. pointing to the correct specific entity
 the user calls that way.
 
 In practice what it happens instead is
-computers talk all the time to a American
+computers talk all the time to an American
 companies cartel which the world has let itself
 be taken over from because nobody knew better.
 
