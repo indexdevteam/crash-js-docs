@@ -59,6 +59,13 @@ able to nor block a sale
 nor take the content down.
 
 
+### Public libraries
+
+The Ur allows public libraries to
+make available public domain works
+in the safest way possible and
+reducing deduplication of work.
+
 ### Videogames modifications (game mods)
 
 The Ur allows videogame modifications
