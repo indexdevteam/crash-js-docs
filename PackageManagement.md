@@ -81,3 +81,23 @@ In practice what it happens instead is
 computers talk all the time to a American
 companies cartel which the world has let itself
 be taken over from because nobody knew better.
+
+The Ur tries to bring just a little bit more
+of reason into this apocalyptic scenario by
+at the very least allowing one to have granted
+its right to talk its own language
+without an American company being able to
+impose an illegitimate form of censorship
+over how one talks.
+
+Since the Ur is permissionless and an arbitrary
+high amount of publishers can be available for
+any given package, in order for users to
+be able to select between legitimate publishers,
+filtering is currently provided in the form of a
+permissionless signing up fee, which can be adjusted
+in order for Ur users to correctly be able to process
+the limited amount (just 10 billions) of humans
+on the planet.
+
+
