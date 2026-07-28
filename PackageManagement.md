@@ -39,7 +39,7 @@ code comes from the Termux and MSYS2/MinGW projects.
 
 ## Namespacing
 
-Differently from in a classical system package
+Differently than from on a classical system package
 manager, on the Ur there is no unique correspondence
 between a `pkgbase` (a packages group name) and
 an Universal Recipe, as every publisher is allowed
