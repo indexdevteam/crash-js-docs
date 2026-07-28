@@ -80,4 +80,4 @@ the user calls that way.
 In practice what it happens instead is
 computers talk all the time to a American
 companies cartel which the world has let itself
-take over from because nobody knew better.
+be taken over from because nobody knew better.
