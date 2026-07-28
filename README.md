@@ -37,7 +37,7 @@ Here follows an index for the Ur documentation.
 - [Architecture](
     Architecture.md)
 - [Package Management](
-    StoreModel.md)
+    PackageManagement.md)
 - [Store model](
     StoreModel.md)
 - [Universal Recipes](
