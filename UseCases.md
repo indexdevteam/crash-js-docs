@@ -61,10 +61,13 @@ nor take the content down.
 
 ### Public libraries
 
-The Ur allows public libraries to
-make available public domain works
-in the safest way possible and
-reducing deduplication of work.
+The Ur is particularly suited for
+public libraries as it allows them to
+build their catalogues and provide their
+services to their stakeholders
+in the safest and economically soundest
+way possible.
+
 
 ### Videogames modifications (game mods)
 
