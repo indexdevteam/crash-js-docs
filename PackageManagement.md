@@ -97,7 +97,5 @@ be able to select between legitimate publishers,
 filtering is currently provided in the form of a
 permissionless signing up fee, which can be adjusted
 in order for Ur users to correctly be able to process
-the limited amount (just 10 billions) of humans
-on the planet.
-
-
+and identify the limited amount (just 10 billions)
+of humans on the planet.
