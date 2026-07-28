@@ -36,3 +36,37 @@ user-level management.
 
 Cross-platform support and user-level management
 code comes from the Termux and MSYS2/MinGW projects.
+
+## Namespacing
+
+Differently from in a classical system package
+manager, on the Ur there is no unique correspondence
+between a `pkgbase` (a packages group name) and
+an Universal Recipe, as every publisher is allowed
+to publish an Universal Recipe for any given `pkgbase`.
+
+The main practical reason for this design has been
+to allow plurality in collaborative projects (suppose
+two maintainers disagree on the best way to package a
+program) and for users to select what they deem the
+best choice for their systems by themselves in an
+easy way, without necessarily having to impose one
+to everybody.
+
+The main theoretical reason is words are used
+to refer at concepts but at this time copyright
+allows for its holders to keep using the same words
+to refer to an ever different thing, so that in
+practice we are literally allowing for private
+groups to rent ownership of words' meaning,
+which is something barbaric and dystopian.
+
+It's normally expected from humans that
+even when using the same words, they will
+always mean something different, maybe
+slightly different when one is lucky,
+but always different.
+At the same time thats not to be expected
+from computers, which on the opposite are
+supposed to always interpret the same symbol
+the same way.

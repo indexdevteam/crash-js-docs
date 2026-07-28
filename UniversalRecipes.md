@@ -26,7 +26,7 @@ Ur
   https://wiki.archlinux.org/title/PKGBUILD)s
 are also called *universal recipes*, because they
 are supposed to run on all Life and DogeOS supported
-platforms, such as GNU/Linux, Android and Windows.
+base platforms, such as GNU/Linux, Android and Windows.
 
 In particular, this makes Ur recipes seamlessly compatible
 with
@@ -51,13 +51,28 @@ and
 environments.
 
 While Ur recipes and packages are compatible with the
-all of the above platform, at least Arch Linux developers explicitly
-forbid publishing on their repos recipes which are
+all of the above platforms, at least Arch Linux developers
+explicitly forbid publishing on their repos recipes which are
 compatible with many operating systems or platforms at once.
 
-For Termux it is instead currently under evaluation
+For Termux it has been instead under evaluation
 [merging the Tur into the Ur](
-  https://github.com/termux-user-repository/tur/issues/1486).
+  https://github.com/termux-user-repository/tur/issues/1486)
+but it's now on hold.
+
+Ur authors see hard the above projects will
+hardly support the application store directly,
+unless they are gonna make it their default,
+as its unique properties (i.e.
+[undeletability](
+  https://github.com/themartiancompany/evmfs-docs/blob/master/README.md),
+permissionlessness, cross-platform support)
+makes from their point of view inevitable
+that the Ur will eventually become the main
+publishing mechanism for computer applications
+on the internet, as it is orders of magnitude
+more reliable and cheaper than any other existing
+way of publishing content on the internet.
 
 ## Differences with `PKGBUILD`s
 
