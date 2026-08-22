@@ -21,16 +21,34 @@
 
 ### Crash Javascript documentation
 
-The Crash Javascript library facilitates
-writing Javascript modules which do resemble
-[Crash Bash](
-  https://github.com/themartiancompany/crash-bash)
-programs and are seamlessly integrated with
-every platform on which it's possible to
-run Javascript (web browsers or Node.js).
+##### `_require`
 
-- [Functions](
-    functions.md).
+Asynchronous `require` override;
+it allows to load modules both
+from `<usr>/lib/node_modules/<module-name>`
+and LHS' canonical `<usr>/lib/<module-name>`.
 
-The documentation is released under the terms of the
+To use this function, the library must be loaded with `import`
+rather than with `require` and the module in which
+it's used must have `sourceType: "module"` key-value
+in its `package.json`.
+
+```javascript
+const
+  _libcrash_module =
+    await import(
+      "crash-js");
+const
+  _libcrash =
+    _libcrash_module.default;
+const
+  _require =
+    _libcrash_module._require;
+```
+
+##### `_source`:
+    See [`require`](
+           Functions.md#_require)
+
+This document is released under the terms of the
 GNU Affero General Public License version 3.

@@ -27,9 +27,9 @@
    If not, see <https://www.gnu.org/licenses/>.
 
 
-===============================
-Ur documentation authors
-===============================
+===================================
+Crash Javascript documentation
+===================================
 
 * Pellegrino Prevete
   * eth-mail
